@@ -152,25 +152,16 @@ Based on the dashboard analysis:
 
 ## 📸 Dashboard Preview
 
-### Executive Sales Overview
+![Executive Sales Overview](Screenshot/01_Executive_Sales_Overview.png)
 
-![Executive Sales Overview](Screenshots/01_Executive_Sales_Overview.png)
+![Sales & Order Analysis](Screenshot/02_Sales_Order_Analysis.png)
 
-### Sales & Order Analysis
+![Customer Analytics](Screenshot/03_Customer_Analytics.png)
 
-![Sales & Order Analysis](Screenshots/02_Sales_Order_Analysis.png)
+![Menu & Product Performance](Screenshot/04_Menu_Product_Performance.png)
 
-### Customer Analytics
+![Branch Performance Analysis](Screenshot/05_Branch_Performance_Analysis.png)
 
-![Customer Analytics](Screenshots/03_Customer_Analytics.png)
-
-### Menu & Product Performance
-
-![Menu & Product Performance](Screenshots/04_Menu_Product_Performance.png)
-
-### Branch Performance Analysis
-
-![Branch Performance Analysis](Screenshots/05_Branch_Performance_Analysis.png)
 
 ## 📁 Project Files
 
